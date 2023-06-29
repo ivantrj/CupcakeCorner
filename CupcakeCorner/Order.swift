@@ -11,7 +11,7 @@ enum CodingKeys: CodingKey {
     case type, quantity, extraFrosting, addSprinkles, name, streetAddress, city, zip
 }
 
-class Order: ObservableObject {
+class Order: ObservableObject, Codable {
     static let types = ["Vanilla", "Strawberry", "Chocolate", "Rainbow"]
     
     init() { }
