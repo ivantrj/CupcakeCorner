@@ -2,7 +2,7 @@
 //  CheckoutView.swift
 //  CupcakeCorner
 //
-//  Created by ivan ruwido  on 27.06.23.
+//  Created by ivan trajanovski  on 27.06.23.
 //
 
 import SwiftUI
